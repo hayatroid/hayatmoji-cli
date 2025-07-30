@@ -1,0 +1,3 @@
+[submodule "hayatmoji"]
+	path = hayatmoji
+	url = git@github.com:hayatroid/hayatmoji.git
