@@ -1,3 +1,6 @@
+//! # hayatmoji-cli
+//! A hayatmoji interactive cli tool for using emojis on commits. 🤦
+
 use std::{error::Error, fmt::Display};
 
 use clap::{CommandFactory, Parser};
